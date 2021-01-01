@@ -11,7 +11,7 @@
 ### Attention -> 注意
 
 >  Support Coin -> 支持的币种
->> -[x] Eth & Erc20
+>> - [√] Eth & Erc20
 
  ```
  This project would only show some transaction code , 
